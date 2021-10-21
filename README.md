@@ -2,4 +2,6 @@
 
  1. lesson
 
-> List item
+> create app
+> go run/build command
+> fmt console log
