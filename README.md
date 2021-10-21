@@ -2,6 +2,6 @@
 
  1. lesson
 
-> create app
-> go run/build command
-> fmt console log
+- create app
+- go run/build command
+- fmt console log
